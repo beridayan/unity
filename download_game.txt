@@ -1,3 +1,7 @@
 the file is to large so if you want to download it you can from this link :
 
   https://drive.google.com/file/d/1qHgWcHJgFhNf9BsoJAYVknmxyX3FkCVH/view?usp=sharing
+
+
+to open the game:
+build -> magic_game.exe
